@@ -5,7 +5,7 @@
 JavaScript, WebGL, Raymarcher, Pathtracer  
 
 [Everyday One Motion](http://motions.work/motion/253)  
-[Demo Page](http://fms-cat.github.io/eom_20160602)  
+[Demo Page](http://fms-cat.github.io/eom_20160602/dist)  
 
 ## 今月のテーマ
 
