@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160602 "My First Raymarch Pathtracer"  
+# Everyday One Motion - 20160602  
+
+"My First Raymarch Pathtracer"  
 
 ![](20160602.gif)  
 
 JavaScript, WebGL, Raymarcher, Pathtracer  
 
 [Everyday One Motion](http://motions.work/motion/253)  
-[Demo Page](http://fms-cat.github.io/eom_20160602/dist)  
+[Demo Page](http://fms-cat-eom.github.io/20160602/dist)  
 
 ## 今月のテーマ
 
